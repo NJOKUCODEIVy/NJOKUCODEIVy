@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NJOKUCODEIVy
-- 👀 I’m interested in ...free lancing
-- 🌱 I’m currently learning ...python programming
-- 💞️ I’m looking to collaborate on ...certain python projects
+- 👀 its a GAME that the end is not predetermined
+- 🌱 I’m currently learning ...solidity
+- 💞️ I’m looking to collaborate on any smartcontract development project 
 - 📫 How to reach me ...kelechinjoku76@gmail.com
 
 <!---
